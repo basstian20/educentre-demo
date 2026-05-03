@@ -784,7 +784,7 @@ function ClassSchedule() {
     {day:3,start:2,span:2,name:"English Yr 3",room:"Room B",teacher:"Fariz",color:"#10b98120",border:C.green},
     {day:3,start:5,span:2,name:"Science Yr 6",room:"Lab 1",teacher:"Laila Wihasfina",color:"#f59e0b20",border:C.amber},
     {day:4,start:3,span:2,name:"BM Yr 6",room:"Room C",teacher:"Halim",color:"#7c3aed20",border:C.purple},
-    {day:5,start:1,span:3,name:"Math Yr 6",room:"Room A",teacher:"Noor Kesuma",color:"#3b82f620",border:C.blue},
+    {day:5,start:1,span:3,name:"",room:"",teacher:"",color:"#3b82f620",border:C.blue},
     {day:5,start:1,span:3,name:"Science Yr 5",room:"Lab 1",teacher:"Laila Wihasfina",color:"#f59e0b20",border:C.amber},
   ];
   const cellH = 44;
